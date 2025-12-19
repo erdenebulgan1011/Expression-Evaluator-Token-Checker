@@ -1,4 +1,3 @@
-package lab3;
 
 public class IntValue extends Expression {
 	 private int value;
