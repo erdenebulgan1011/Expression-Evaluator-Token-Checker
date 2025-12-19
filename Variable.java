@@ -1,4 +1,3 @@
-package lab3;
 
 public class Variable extends Expression {
 	 private String id;
