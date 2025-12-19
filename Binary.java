@@ -1,4 +1,3 @@
-package lab3;
 
 public class Binary extends Expression {
 	  private String op;
