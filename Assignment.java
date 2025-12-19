@@ -1,5 +1,3 @@
-package lab3;
-
 public class Assignment {
 	 private Variable target;
 	    private Expression source;
